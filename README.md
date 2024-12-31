@@ -1,4 +1,4 @@
-# Thirtysix Studios Landing Page Replica
+# Thirtysix Studios Landing Page
 
 This project is a frontend implementation of the landing page for **Thirtysix Studios**, built using JavaScript and React. The page features smooth and interactive animations powered by **GSAP (GreenSock Animation Platform)**.
 
@@ -16,7 +16,7 @@ This project is a frontend implementation of the landing page for **Thirtysix St
 
 ## Live Demo
 
-You can check out the live demo of the project by visiting [thirtysixstudio-eta.vercel.app](#).
+You can check out the live demo of the project by visiting [thirtysixstudio-eta.vercel.app](#)
 
 ## Installation
 
