@@ -16,7 +16,7 @@ This project is a frontend implementation of the landing page for **Thirtysix St
 
 ## Live Demo
 
-You can check out the live demo of the project by visiting [thirtysixstudio-eta.vercel.app](#)
+You can check out the live demo of the project by visiting [thirtysixstudio-eta.vercel.app](https://thirtysixstudio-eta.vercel.app)
 
 ## Installation
 
